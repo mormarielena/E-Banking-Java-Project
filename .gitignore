@@ -1,0 +1,48 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### IntelliJ IDEA Extra ###
+.idea/
+*.iml
+*.iws
+
+### Project Specific Data ###
+# Ignore the serialized database
+accountsData
+
+# Ignore generated reports
+*.txt
+!README.txt
+
+### Java Compiled ###
+*.class
+
+### OS Specific ###
+Thumbs.db
